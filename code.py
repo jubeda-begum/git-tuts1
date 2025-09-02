@@ -1,1 +1,0 @@
-print("jubeda + entry course")
