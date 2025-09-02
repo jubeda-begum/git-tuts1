@@ -1,0 +1,1 @@
+print("jubeda + entry course")
